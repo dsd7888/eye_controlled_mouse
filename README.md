@@ -1,7 +1,5 @@
 # 👁️ Eye-Controlled Mouse
 
-![Eye-Controlled Mouse Demo]
-
 ## 🚀 Overview
 
 Eye-Controlled Mouse is an innovative Python project that allows users to control their computer's mouse cursor using only their eye movements. By leveraging computer vision and machine learning techniques, this application provides a hands-free way to interact with your computer, enhancing accessibility and exploring new modes of human-computer interaction.
