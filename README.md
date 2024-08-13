@@ -1,5 +1,3 @@
-# eye_controlled_mouse
-
 # 👁️ Eye-Controlled Mouse
 
 ![Eye-Controlled Mouse Demo]
